@@ -1,1 +1,6 @@
 The command to initialize git is git init
+The command to initialize git is git init
+The command to initialize git is git init
+The command to initialize git is git init
+The command to initialize git is git init
+
